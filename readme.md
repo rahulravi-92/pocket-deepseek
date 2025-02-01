@@ -34,7 +34,7 @@ Install the application with few commands
 brew install git
 
 # Clone this GitHub repo to download and install the Chat Experience
-git clone <repo_url>
+git clone https://github.com/rahulravi-92/pocket-deepseek.git
 
 # Navigate inside the repo
 cd pocket-deepseek
@@ -113,13 +113,10 @@ git --version
 
 ```
 # Download the application from the repo
-git clone <repo_url>
+git clone https://github.com/rahulravi-92/pocket-deepseek.git
 
 # Navigate inside the folder
 cd pocket-deepseek
-
-# Download the application files
-git clone <repo_url>
 
 ```
 
